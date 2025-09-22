@@ -14,7 +14,7 @@
 
 ## Rust 项目
 
-在 Rust 官方项目中提供四个等级的目标产物：
+**在 Rust 官方项目中提供四个等级的目标产物**：
 
 - Tier 1 with Host Tools（带有主机工具一级产物）
 - Tier 2 with Host Tools（带有主机工具二级产物）
