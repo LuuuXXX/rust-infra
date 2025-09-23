@@ -34,8 +34,17 @@ time = "0.1.12"
 
 ## 3. 配置文件
 
-配置文件一般常用来指定 crates.io 镜像，编译链接器等全局配置。
-对于国内用户，可以直接使用如下配置来加速获取三方库资源：
+对于 Cargo 项目而言，Cargo 会去逐层寻找 `config.toml` 文件作为构建当前项目的全局配置文件，顺序依次是：
+1. 当前项目的 `.cargo/config.toml`
+2. Cargo HOME目录的 `$CARGO_HOME/.cargo/config.toml`
+3. 当前用户的 `$HOME/.cargo/config.toml`
+4. root 用户的 `/root/.cargo/config.toml`
+当有多个配置时，Cargo 项目会使用最上层的配置文件来作为当前项目的全局配置文件。
+
+常见的配置如下，更多配置可以参考[官方文档](https://doc.rust-lang.org/cargo/reference/config.html)：
+
+> 配置文件一般常用来指定 `crates.io` 镜像，编译链接器等全局配置。
+> 对于国内用户，可以直接使用如下配置来加速获取三方库资源：
 
 - 中国旋武社区
 ```toml
