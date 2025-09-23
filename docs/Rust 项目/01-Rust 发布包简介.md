@@ -2,7 +2,7 @@
 
 参考社区版本发布说明文档：https://doc.rust-lang.org/releases.html
 
-以当前最新版本 1.90.0 为例，该版本的 rustup 中心存储位置为：https://static.rust-lang.org/dist/2025-09-18
+以当前最新版本 `1.90.0` 为例，该版本的 rustup 中心仓存储位置为：https://static.rust-lang.org/dist/2025-09-18
 
 ![alt text](../../asserts/release.png)
 
