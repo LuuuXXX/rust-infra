@@ -42,7 +42,7 @@ Cargo 是官方的 Rust 项目包管理工具，其底层核心是通过调用 r
 
 Rust 项目是官方开源的项目，每六周发布一个版本（如果有漏洞可能会提前发布补丁版本，如 1.72.1）。
 
-![alt text](../asserts/api-token.pngrust.png)
+![alt text](../asserts/rust.png)
 
 Rust 项目是一个大的混合项目，包括一下几个组件（后续版本可能会更改）：
 - **compiler**
