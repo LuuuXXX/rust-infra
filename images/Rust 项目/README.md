@@ -10,6 +10,5 @@
 | **aarch64-unknown-linux-gnu** | **[地址链接](./aarch64-unknown-linux-gnu/README.md)**        |
 | **i686-pc-windows-msvc** | **[地址链接](./i686-pc-windows-msvc/README.md)**    |
 | **i686-unknown-linux-gnu** | **[地址链接](./i686-unknown-linux-gnu/README.md)**        |
-| **x86_64-pc-windows-gnu** | **[地址链接](./x86_64-pc-windows-gnu/README.md)**        |
 | **x86_64-pc-windows-msvc** | **[地址链接](./x86_64-pc-windows-msvc/README.md)**         |
 | **x86_64-unknown-linux-gnu** | **[地址链接](./x86_64-unknown-linux-gnu/README.md)** |

@@ -29,7 +29,6 @@
 
 参考链接 1.90.0 版本：https://github.com/rust-lang/rust/blob/1159e78c4747b02ef996e55082b704c09b970588/src/ci/github-actions/jobs.yml#L477-L499
 
-
 ```yml
 SCRIPT: ./x.py dist bootstrap --include-default-paths --host=aarch64-apple-darwin --target=aarch64-apple-darwin
 RUST_CONFIGURE_ARGS: >-
