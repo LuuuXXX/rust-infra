@@ -10,7 +10,7 @@
 
 ## i686-unknown-linux-gnu
 
-## x86_64-pc-windows-gnu
+## x86_64-pc-windows-gnu（已降级）
 
 ## x86_64-pc-windows-msvc
 
